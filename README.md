@@ -12,8 +12,8 @@ You will need an installation of Python, plus the following libraries:
 * csv
 
 ### Project implementation details :
-* [projectDetailsInReadMeFormar](.Investigate_a_Dataset.md)
-* [projectDetailsInJupiterNotebook](.Investigate_a_Dataset.ipynb)
+* [projectDetailsInReadMeFormat](Investigate_a_Dataset.md)
+* [projectDetailsInJupiterNotebook](Investigate_a_Dataset.ipynb)
 ### Why this Project?
 In this project, we have to go through the data analysis process and see how everything fits together.
 I have also use the Python libraries NumPy, pandas, and Matplotlib, which make writing data analysis code in Python a lot easier! 
